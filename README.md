@@ -8,4 +8,4 @@ Technologies:
 5. Pug
 6. Luxon
 
-View project here: https://salty-reef-75748.herokuapp.com/catalog
+App hosted on Heroku at: https://salty-reef-75748.herokuapp.com/catalog
